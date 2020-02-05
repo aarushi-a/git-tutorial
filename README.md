@@ -18,6 +18,9 @@ A demo repo for the git tutorials I run. The current version of the slides are i
     * [ ] Branching
     * [ ] Merging
     * [ ] Rebasing
+* Using git with Forks
+    * [X] Forking
+    * [X] Creating Pull Requests
 * Advanced Topics
     * [ ] `.gitignore`
     * [ ] The Commit Graph
